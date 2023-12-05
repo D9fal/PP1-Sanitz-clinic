@@ -5,6 +5,15 @@
     box-sizing: border-box;
 }
 
+/*General styles*/
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    color: #050505;
+}
+
 /* Header*/
 header {
     background-color: darkgreen;
@@ -13,6 +22,7 @@ header {
 /* Main*/
 main {
     background-color: aliceblue;
+    flex: 1 0 auto;
 }
 
 /* footer*/

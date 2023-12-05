@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;900&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
 /* good practice to Override the defaults browser settings by using  wildcard*/
 * {
     padding: o;
@@ -12,16 +14,22 @@ body {
     min-height: 100vh;
     flex-direction: column;
     color: #050505;
+    /* applying google font family to the body */
+    font-family: 'lato', sans-serif;
 }
 
 /* Header*/
 header {
-    background-color: darkgreen;
+    background-color: #ffffff;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
 }
 
 /* Main*/
 main {
-    background-color: aliceblue;
+    background-color: rgba(255, 253, 240, 0.452);
     flex: 1 0 auto;
 }
 

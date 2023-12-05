@@ -29,12 +29,19 @@ header {
 }
 
 /* remove the underline des ancors elements in the header element*/
-header>a {
+header a {
     text-decoration: none;
 }
 
 h1 {
     font-family: 'Oswald', sans-serif;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #050505;
+}
+
+#plan {
+    list-style-type: none;
 }
 
 /* Main*/

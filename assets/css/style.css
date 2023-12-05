@@ -21,6 +21,16 @@ body {
 /* Header*/
 header {
     background-color: #ffffff;
+    padding: 0 2rem;
+    position: fixed;
+    width: 100%;
+    z-index: 50;
+    box-shadow: 0 3px 2px #3a3a3a;
+}
+
+/* remove the underline des ancors elements in the header element*/
+header>a {
+    text-decoration: none;
 }
 
 h1 {
@@ -29,11 +39,11 @@ h1 {
 
 /* Main*/
 main {
-    background-color: rgba(255, 253, 240, 0.452);
+    background-color: rgb(95, 223, 91);
     flex: 1 0 auto;
 }
 
 /* footer*/
 footer {
-    background-color: sienna;
+    background-color: rgba(9, 109, 14, 0.616);
 }

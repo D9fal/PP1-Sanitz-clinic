@@ -1,0 +1,21 @@
+/* good practice to Override the defaults browser settings by using  wildcard*/
+* {
+    padding: o;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Header*/
+header {
+    background-color: darkgreen;
+}
+
+/* Main*/
+main {
+    background-color: aliceblue;
+}
+
+/* footer*/
+footer {
+    background-color: sienna;
+}

@@ -103,3 +103,61 @@ main {
 footer {
     background-color: rgba(9, 109, 14, 0.616);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Media query: iPad pro and larger (1024px and up) */
+@media screen and (min-width: 1024px) {
+
+    /* Header */
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+
+    #plan {
+        display: flex;
+    }
+
+    #plan>li {
+        padding-left: 1rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+
+    #praxis {
+        font-size: 280%;
+        line-height: 75px;
+        margin: 0 0.5rem;
+    }
+
+    main {
+        margin-top: 99px;
+    }
+
+}
+
+
+/* Large devices (laptops and desktops, 992px and up) */
+@media screen and (min-width: 992px) {
+    #plan a:hover {
+        border-bottom: 1px solid #3a3a3a;
+    }
+}

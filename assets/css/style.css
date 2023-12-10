@@ -21,11 +21,14 @@ body {
 /* Header*/
 header {
     background-color: #ffffff;
-    padding: 0 2rem;
+    padding: 0 1rem;
     position: fixed;
     width: 100%;
     z-index: 50;
     box-shadow: 0 3px 2px #3a3a3a;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 /* remove the underline des ancors elements in the header element*/
@@ -38,25 +41,62 @@ h1 {
     font-family: 'Oswald', sans-serif;
     letter-spacing: 2px;
     text-transform: uppercase;
-    color: #050505;
+    color: #252525;
 }
 
 #plan {
     /* removing the bullet points*/
     list-style-type: none;
     letter-spacing: 4px;
-    color: #050505;
+    font-size: 110%;
 }
 
-#plan li {
-    margin-bottom: 4px;
+#plan>li {
+    margin-bottom: 1em;
+}
+
+/*Nav bar Style with dropdown toggle */
+
+nav {
+    position: absolute;
+    background-color: #ffffff;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: none;
+    top: 100%;
+
+}
+
+/* Nav-toggle*/
+
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+#nav-toggle-label {
+    font-size: 2rem;
 }
 
 /* Main*/
 main {
     background-color: rgb(95, 223, 91);
     flex: 1 0 auto;
+    /* pushing the main element down*/
+    margin-top: 45px;
+}
 
+#home {
+    background-color: #ffffff;
+}
+
+#services {
+    background-color: #ffffff;
 }
 
 /* footer*/

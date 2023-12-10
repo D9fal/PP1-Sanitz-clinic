@@ -91,12 +91,21 @@ main {
     margin-top: 45px;
 }
 
-#home {
+#home-outer {
     background-color: #ffffff;
+
 }
 
 #services {
     background-color: #ffffff;
+}
+
+#appointments {
+
+}
+
+#about-us {
+
 }
 
 /* footer*/

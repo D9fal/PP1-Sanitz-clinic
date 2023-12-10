@@ -104,7 +104,19 @@ footer {
     background-color: rgba(9, 109, 14, 0.616);
 }
 
+#social-net {
+    padding: 15px 0;
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    list-style-type: none;
 
+}
+
+#social-net i {
+    color: #3a3a3a;
+    font-size: 150%;
+}
 
 
 

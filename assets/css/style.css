@@ -142,7 +142,8 @@ main {
     /*justify-content: space-between;*/
 }
 
-#services-outer>h2 {
+#services-outer>h2,
+#contact-us>h2 {
     margin-bottom: 10px;
     text-align: center;
     font-size: 200%;
@@ -237,7 +238,16 @@ input[type=submit] {
     cursor: pointer;
 }
 
-/*#contact-us {}*/
+/* COntacts*/
+
+#contact-us> div {
+    color: #fafafa;
+    background-color: #06d4d4f6;
+    padding: 10px;
+    text-align: center;
+    margin: 10px 10px;
+}
+
 
 /* footer*/
 footer {

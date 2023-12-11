@@ -113,8 +113,57 @@
       <hr />
       <!-- a form  to register -->
       <section id="appointments-outer">
-        <div id="appointments-pic"></div>
         <h2>Appointments</h2>
+        <div id="appointments-pic">
+          <form
+            action="https://formdump.codeinstitute.net/"
+            method="post"
+            class="container"
+          >
+            <label for="fname">First Name</label>
+            <input
+              type="text"
+              id="fname"
+              name="firstname"
+              placeholder="Your name.."
+            />
+
+            <label for="lname">Last Name</label>
+            <input
+              type="text"
+              id="lname"
+              name="lastname"
+              placeholder="Your last name.."
+            />
+
+            <label for="email"><b>Email</b></label>
+            <input
+              type="email"
+              id="email"
+              placeholder="Enter Email"
+              name="email"
+              required
+            />
+
+            <label for="patient_status">First time with us ?</label>
+            <select id="patient_status" name="patient_status">
+              <option value="Yes">Yes</option>
+              <option value="No">No</option>
+            </select>
+
+            <label for="subject">Subject</label>
+            <select id="subject" name="subject">
+              <option value="prescription">Prescription</option>
+              <option value="check ups">Check ups</option>
+              <option value="diabetes">Diabetes</option>
+              <option value="bones and joints">Bones joints muscles</option>
+              <option value="children care">Children Care</option>
+              <option value="flu symptoms">Flu symptoms</option>
+            </select>
+
+            <input type="submit" value="Submit" />
+          </form>
+        </div>
       </section>
       <hr />
       <!-- insert an imap list of doctors working there-->

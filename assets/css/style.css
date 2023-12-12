@@ -2,7 +2,7 @@
 
 /* good practice to Override the defaults browser settings by using  wildcard*/
 * {
-    padding: o;
+    padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
@@ -96,7 +96,7 @@ main {
     height: 300px;
     width: 100%;
     overflow: hidden;
-    margin-top: 75px;
+    margin-top: 10px;
 }
 
 #hero-pic {
@@ -115,10 +115,11 @@ main {
     height: auto;
 }
 
-#hero-text h1 {
+#hero-text h2 {
     color: rgb(20, 150, 150);
+    text-transform: uppercase;
     font-size: 20px;
-    font-weight: 5 700;
+    font-weight: 700;
     text-align: center;
     padding: 5px 10px;
     margin: 0;
@@ -255,10 +256,12 @@ input[type=submit] {
     flex-basis: 200px;
     flex-grow: 1;
 
-    border: 4px solid #fafafa;
+    border: 2px solid #fafafa;
 }
 
-
+.hidden-heading {
+    display: none;
+}
 
 /* footer*/
 footer {

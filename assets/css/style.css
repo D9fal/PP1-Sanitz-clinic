@@ -241,12 +241,12 @@ input[type=submit] {
 /* COntacts*/
 
 #Contact-pic {
-    background: url('../images/landskape_01.jpg') no-repeat center/cover;
+    background: url('../images/landscape_01.jpg') no-repeat center/cover;
     display: flex;
     flex-wrap: wrap;
 }
 
-#contact-us>div {
+#Contact-pic>div {
     color: #fafafa;
     background-color: rgba(0, 0, 0, .6);
     padding: 15px;
@@ -255,7 +255,7 @@ input[type=submit] {
     flex-basis: 200px;
     flex-grow: 1;
 
-    border: 2px solid #fafafa;
+    border: 4px solid #fafafa;
 }
 
 
@@ -355,4 +355,40 @@ footer {
     #plan a:hover {
         border-bottom: 1px solid #3a3a3a;
     }
+}
+
+
+/* Large devices (net hub max, 1200 px and up) */
+@media screen and (min-width: 1200px) {
+
+    #services-outer {
+        display: flex;
+        flex-direction: row;
+    }
+
+    #services-outer div {
+        flex: 1;
+    }
+
+    #services-one {
+        order: 0;
+    }
+
+    #services-one div {
+        align-self: flex-start;
+    }
+
+    #services-two {
+        order: 1;
+    }
+
+    #services-two div {
+        align-self: flex-end;
+    }
+
+    #cirle-image-bg {
+        order: 0;
+    }
+
+
 }

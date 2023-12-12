@@ -185,7 +185,7 @@ hr {
 
 #appointments-outer {
 
-    height: 600px;
+    height: 550px;
     width: 100%;
     overflow: hidden;
     margin-top: 5px;
@@ -199,7 +199,7 @@ hr {
 
 #appointments-pic {
     width: 100%;
-    height: 600px;
+    height: 550px;
     background: url(../images/book-appointment.jpg) no-repeat center center;
     background-size: cover;
     position: relative;

@@ -1,10 +1,22 @@
 
 # HAUSARZTPRAXIS Dr. van der Wall 
+
 <hr/>
- Hausarztpraxis Improving the health of the population they serve. Responding to people's expectations. Providing financial protection against the costs of ill-health.
+ Hausarztpraxis is a medical clinic to improve the health of the population they serve. Responding to people's expectations. Providing financial protection against the costs of ill-health.
+ The website includes the healthcare services provided such as:
+    * Emergency,services.
+    * Continuing Care. 
+    * Mental Health and wellness.
+    * Home Care.
+  section that allows patients to book a medicale appointment online and avoid the avoid the  
 
  
- ## Ste Owner Goals
+ 
+ The live link cab be found here - [hausarztpraxis](https://d9fal.github.io/PP1-Sanitz-clinic/)
+
+  ## Site Owner Goals
+  
+ 
  <hr/>
 
 

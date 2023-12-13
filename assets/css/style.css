@@ -247,10 +247,6 @@ input[type=submit] {
     flex-wrap: wrap;
 }
 
-div>table {
-    width: 100%;
-}
-
 #Contact-pic>div {
     color: #fafafa;
     background-color: rgba(0, 0, 0, .6);
@@ -264,7 +260,13 @@ div>table {
     width: 100%;
 }
 
+div>table {
+    width: 100%;
+}
 
+.cont {
+    margin-top: 8px;
+}
 
 .hidden-heading {
     display: none;

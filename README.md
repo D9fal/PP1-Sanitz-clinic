@@ -1,14 +1,13 @@
 
 # HAUSARZTPRAXIS Dr. van der Wall 
 
-<hr/>
  Hausarztpraxis is a medical clinic to improve the health of the population they serve. Responding to people's expectations. Providing financial protection against the costs of ill-health.
  The website includes the healthcare services provided such as:
  
-  * Emergency,services.
-  * Continuing Care. 
-  * Mental Health and wellness.
-  * Home Care.
+- Emergency,services.
+- Continuing Care. 
+- Mental Health and wellness.
+- Home Care.
 
 Through the website, the clinic allow patients to book their medical appointment online for non emergency cases. A section dedicated to appointments required some basic information and these informations are instanstly process by nurses at te clinic saving the patients and the doctor a lot on he consultation time.
 
@@ -21,12 +20,8 @@ The address and contact information is also available. The live link can be foun
   * To enable the user to locate Hausartzpraxis by clicking on the google map link. 
   * To allow Hausartztpraxis to deliver necessary information to its patients as fast as possible.    
   
- <hr/>
 
  ## Design
- 
- <hr/>
-
 
 ### Imagery
 
@@ -42,30 +37,38 @@ lato font is the main font used throughout the whole website. This font was impo
 
 ## Wireframes
 
- <hr/> 
-
  Wireframes were produced using Balsamiq.
 
-* Desktop Wireframe ![Nav bar image](/readme-images/Desktopwireframe.png)
-* Mobile Wireframe
+ <details>
  
+ <summary>Desktop Wireframe</summary>![Desktop Wireframe](assets/readme-docs/wireframe/Desktopwireframe.png)
+
+</details>
+ <details>
+ 
+ <summary>Mobile Wireframe</summary>
+ ![Desktop Wireframe](assets/readme-docs/wireframe/Mobilewireframe.pngwireframe.png)
+
+</details>
+
 ## Features
 
-<hr/> 
- 
  
 ## Testing
 
-<hr/> 
  
 ### Validator Testing
 
 * HTML
-  * No errors were returned using W3C Markup Validator
-    * 
+        No errors were returned using W3C html Validator
+        [w3w html Validator Results](https://validator.w3.org/nu/#textarea)
 * CSS
-* Accessbility
+        No errors were returned using W3C css Validator
+        [w3w css Validator Results](https://jigsaw.w3.org/css-validator/validator)
 
+* Accessibility
+  
+The accessibility score is 85% showing that pictures colors and fonts offers a good contrast. I think i can improve it by reducing the size of the pictures 
 ### Form Testing
 
 * The form has been tested and I would not be possible not submit without the required inputs fields being filled in.
@@ -81,10 +84,7 @@ lato font is the main font used throughout the whole website. This font was impo
 
 ## Deployment
 
-<hr/> 
-
 
 ## Credits
 
-<hr/>
 

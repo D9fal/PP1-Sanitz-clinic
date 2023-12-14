@@ -46,8 +46,8 @@ lato font is the main font used throughout the whole website. This font was impo
 
  Wireframes were produced using Balsamiq.
 
-Desktop Wireframe
-Mobile Wireframe
+* Desktop Wireframe ![Nav bar image](/readme-images/Desktopwireframe.png)
+* Mobile Wireframe
  
 ## Features
 

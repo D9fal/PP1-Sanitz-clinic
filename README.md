@@ -64,14 +64,14 @@ lato font is the main font used throughout the whole website. This font was impo
  
  <summary>Desktop Wireframe</summary> 
  
- ![Desktop Wireframe](assets/readme-docs/wireframe/Desktopwireframe.png)
+   ![Desktop Wireframe](assets/readme-docs/wireframe/Desktopwireframe.png)
 
 </details>
  <details>
  
  <summary>Mobile Wireframe</summary>
  
- ![Desktop Wireframe](assets/readme-docs/wireframe/Mobilewireframe.png)
+   ![Desktop Wireframe](assets/readme-docs/wireframe/Mobilewireframe.png)
 
 </details>
 
@@ -119,7 +119,7 @@ lato font is the main font used throughout the whole website. This font was impo
   - The footer section includes links to the clinic social media pages.
     Patients iterrested to have an idea of our patients satisfaction use mostly the social media site and read the comments.
     
-![](assets/readme-docs/other-images/footer.png)
+  ![](assets/readme-docs/other-images/footer.png)
 
 
 ## Testing

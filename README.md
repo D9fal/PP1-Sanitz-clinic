@@ -15,10 +15,10 @@ The address and contact information is also available. The live link can be foun
 
   ## Site Owner Goals
   
-  * To provide the user with a reliable and secure platform, with focus healthcare.
-  * To provide the user with a website that is easy and fast to navigate. fully responsive. 
-  * To enable the user to locate Hausartzpraxis by clicking on the google map link. 
-  * To allow Hausartztpraxis to deliver necessary information to its patients as fast as possible.    
+  - To provide the user with a reliable and secure platform, with focus healthcare.
+  - To provide the user with a website that is easy and fast to navigate. fully responsive. 
+  - To enable the user to locate Hausartzpraxis by clicking on the google map link. 
+  - To allow Hausartztpraxis to deliver necessary information to its patients as fast as possible.    
   
 
  ## Design
@@ -92,7 +92,18 @@ The accessibility score is 85% showing that pictures colors and fonts offers a g
 
 ## Deployment
 
+This project was deployed usimg GitHub pages. The steps are as followed:
 
+* Click on "Settings" on the GitHub repository page.
+* Select "Pages" on the left menu bar.
+* Make sure "Main" is selected in "Branch" dropdowm menu under "Source". 
+* Click "Save" .
+* Wait a few minutes (2mn - 4mn ) and Under "Environements" click on "deployments" and the Deployment link should be available. 
+
+The live link is [Hausarztpraxis](https://d9fal.github.io/PP1-Sanitz-clinic/)
+
+
+## Frameworks
 ## Credits
 
 

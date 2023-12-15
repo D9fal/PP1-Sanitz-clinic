@@ -49,7 +49,7 @@ lato font is the main font used throughout the whole website. This font was impo
  <details>
  
  <summary>Mobile Wireframe</summary>
- ![Desktop Wireframe](assets/readme-docs/wireframe/Mobilewireframe.pngwireframe.png)
+ ![Desktop Wireframe](/assets/readme-docs/wireframe/Mobilewireframe.pngwireframe.png)
 
 </details>
  

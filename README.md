@@ -15,6 +15,8 @@ Through the website, the clinic allow patients to book their medical appointment
 
 The address and contact information are also available. The live link can be found here - [hausarztpraxis](https://d9fal.github.io/PP1-Sanitz-clinic/)
 
+![](assets/readme-docs/other-images/Am-I-responsive.png)
+
   ## Site Owner Goals
   
   - To provide the user with a reliable and secure platform, with focus healthcare.

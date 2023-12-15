@@ -71,7 +71,7 @@ lato font is the main font used throughout the whole website. This font was impo
 
   - The landing page is artistically designed to first gain the patient confidence and allow the clinic to share a quick description of its ojectives.
 
-    ![](assets/readme-docs/other-images/landing-page.png)
+  ![](assets/readme-docs/other-images/landing-page.png)
     
     ![](assets/readme-docs/other-images/landing-page_1.png)
 

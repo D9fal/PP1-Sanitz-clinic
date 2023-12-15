@@ -72,6 +72,9 @@ lato font is the main font used throughout the whole website. This font was impo
 
 * Accessibility
   
+  ![](assets/readme-docs/other-images/performance.png)
+
+  
 The accessibility score is 85% showing that pictures colors and fonts offers a good contrast. I think i can improve it by reducing the size of the pictures 
 ### Form Testing
 

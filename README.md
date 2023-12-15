@@ -1,4 +1,6 @@
 
+[CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+
 # HAUSARZTPRAXIS Dr. van der Wall 
 
  Hausarztpraxis is a medical clinic to improve the health of the population they serve. Responding to people's expectations. Providing financial protection against the costs of ill-health.

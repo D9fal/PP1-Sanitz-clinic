@@ -45,13 +45,16 @@ lato font is the main font used throughout the whole website. This font was impo
 
  <details>
  
- <summary>Desktop Wireframe</summary>![Desktop Wireframe](assets/readme-docs/wireframe/Desktopwireframe.png)
+ <summary>Desktop Wireframe</summary> 
+ 
+ ![Desktop Wireframe](assets/readme-docs/wireframe/Desktopwireframe.png)
 
 </details>
  <details>
  
  <summary>Mobile Wireframe</summary>
- ![Desktop Wireframe](/assets/readme-docs/wireframe/Mobilewireframe.pngwireframe.png)
+ 
+ ![Desktop Wireframe](assets/readme-docs/wireframe/Mobilewireframe.png)
 
 </details>
  

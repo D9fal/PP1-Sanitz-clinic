@@ -86,67 +86,67 @@ lato font is the main font used throughout the whole website. This font was impo
   ![](assets/readme-docs/other-images/nav-bar.png)
   
 - The landing Page 
-
-  The landing page is artistically designed to first gain the patient confidence and allow the clinic to share a quick description of its ojectives.
+  
+  - The landing page is artistically designed to first gain the patient confidence and allow the clinic to share a quick description of its ojectives.
     
   ![](assets/readme-docs/other-images/landing-page_1.png)
 
     
 - Services section
-
-    The Services section gives itemised details of services provided in the clinic.
+  - The Services section gives itemised details of services provided in the clinic.
     
   ![](assets/readme-docs/other-images/services-section.png)
 
 - Appointments section
 
-  This section is added to optimise the use of cell phones, ipads, androids, laptops, desktop, and avoid the need to call (phone line busy), to walk in the clinic and wait in line before getting a simple appointment. 
-
-  It includes a form where the patient information like Name, Last Name, email and Object are to be filled in. email is a required input so that the clinic can get back to the patient if more information are needed. 
+  -  This section is added to optimise the use of cell phones, ipads, androids, laptops, desktop, and avoid the need to call (phone line busy), to walk in the clinic and wait in line before getting a simple appointment. 
   
-  It allows the patient to enjoys a quality service without having to sit in the clinic for long time. Nurses will have time to digitally process and prepare the patient file before the patient's arrival.  
+  -  It includes a form where the patient information like Name, Last Name, email and Object are to be filled in. email is a required input so that the clinic can get back to the patient if more information are needed. 
+  
+  -  It allows the patient to enjoys a quality service without having to sit in the clinic for long time. Nurses will have time to digitally process and prepare the patient file before the patient's arrival.  
 
   ![](assets/readme-docs/other-images/appointments-section.png)
 
 - Contact-Us Section
-
-    The Contact-Us section the most used section by the user, includes an iframe with an embeded google map displaying the location of the clinic.
+  
+  - The Contact-Us section the most used section by the user, includes an iframe with an embeded google map displaying the location of the clinic.
     The phone number, email, and address are also provided in this section.  
     
  
   ![](assets/readme-docs/other-images/contacts-us-section.png)
 
 - The Footer
-    The footer section includes links to the clinic social media pages.
+  - The footer section includes links to the clinic social media pages.
     Patients iterrested to have an idea of our patients satisfaction use mostly the social media site and read the comments.
     
 ![](assets/readme-docs/other-images/footer.png)
 
 
-## User Stories and User Stories Testing"
 ## Testing
 
- 
 ### Validator Testing
 
 * HTML
-        No errors were returned using W3C html Validator
-        [w3w html Validator Results](https://validator.w3.org/nu/#textarea)
+  * No errors were returned using W3C html Validator
+    * [w3w html Validator Results](https://validator.w3.org/nu/#textarea)
 * CSS
-        No errors were returned using W3C css Validator
-        [w3w css Validator Results](https://jigsaw.w3.org/css-validator/validator)
+  * No errors were returned using W3C css Validator
+    * [w3w css Validator Results](https://jigsaw.w3.org/css-validator/validator)
 
 * Accessibility
   
   ![](assets/readme-docs/other-images/performance.png)
 
   
-The accessibility score is 85% showing that pictures colors and fonts offers a good contrast. I think i can improve it by reducing the size of the pictures 
+The accessibility score is 85% showing that pictures colors and fonts offers a good contrast. I think i can improve it by reducing the size of the pictures. 
+
+
 ### Form Testing
 
 * The form has been tested and it is not possible submit without the required inputs fields (email) being filled in.
 
 ### Links Testing
+
 -All the links on the webpage have been tested and work really good
 
 ### Browser Testing

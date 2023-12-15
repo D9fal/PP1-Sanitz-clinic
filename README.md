@@ -71,15 +71,23 @@ lato font is the main font used throughout the whole website. This font was impo
 The accessibility score is 85% showing that pictures colors and fonts offers a good contrast. I think i can improve it by reducing the size of the pictures 
 ### Form Testing
 
-* The form has been tested and I would not be possible not submit without the required inputs fields being filled in.
+* The form has been tested and I would not be possible not submit without the required inputs fields (email) being filled in.
 
 ### Links Testing
+-All the links on the webpage have been tested and work really good
 
 ### Browser Testing
 
+- The page was opened in firefox, chrome, microsoft edge, safari with no error. 
+
 ### Device Testing
 
-### Fixed Bugs
+- The responsiveness test was conducted on iphone 12, thinkpad, desktop samsung 8, ipad and the results are satisfying.
+
+## Teshnologies Used
+
+- HTML5
+- CSS
 
 
 ## Deployment

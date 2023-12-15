@@ -50,9 +50,6 @@ lato font is the main font used throughout the whole website. This font was impo
  ![Desktop Wireframe](assets/readme-docs/wireframe/Mobilewireframe.pngwireframe.png)
 
 </details>
-
-## Features
-
  
 ## Testing
 
@@ -111,9 +108,9 @@ The live link is [Hausarztpraxis](https://d9fal.github.io/PP1-Sanitz-clinic/)
 - [GitHub](https://github.com/) - Used for version control and hosting.
 - [Am I Responsive](https://amiresponsive.co.uk/) - Used to verify responsiveness of website on different devices.
 - [Google Fonts](https://fonts.google.com/) - Used to import and alter fonts on the page.
-- [Font Awesome] - Used for icons in footer.
-- [Balsamiq] - Used to generate Wireframe images.
-- [Am I Responsive] - Used to verify responsiveness of website on different devices.
+- [Font Awesome](https://fontawesome.com/) - Used for icons in footer.
+- [Balsamiq](https://balsamiq.com/) - Used to generate Wireframe images.
+
 
 ## Ressources Used
 
@@ -121,4 +118,7 @@ The live link is [Hausarztpraxis](https://d9fal.github.io/PP1-Sanitz-clinic/)
 - [geesforgeeks](https://www.geeksforgeeks.org/)
 - [W3Schools](https://www.w3schools.com/)
 
+## Aknowledgments
 
+
+My Mentor Antonio for the 3 productive sessions we had. 

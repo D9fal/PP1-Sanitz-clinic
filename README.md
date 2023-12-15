@@ -23,7 +23,25 @@ The address and contact information are also available. The live link can be fou
   - To enable the user to locate Hausartzpraxis by clicking on the google map link. 
   - To allow Hausartztpraxis to deliver necessary information to its patients as fast as possible.    
   
+## User Stories
 
+- First time user/patient
+  
+  - As a first time user, it important to know the main goal of the site and a quick summary of the services provided.
+  - As a first time user I want to be able to intuitively navigate the website and without any frustration.
+  - As a first time user, once in the needed section, I want to be able to browse the contents without getting off topic. 
+  - 
+- Returning User/patient
+  
+  - As a returning user I want to match or surpass the same level of satisfaction during my first time using the website even if new sections or services were added to the website.
+  - As a returning user I want to be able to find the clinic information and location.
+  
+- Frequent User/patient
+  
+  - I want a section newsletter added to the website to brodcast health information from the local govment, and or reminder to certain group of patients vaccinations (flu vaccine) that they may be vulnerable to. 
+  - As a frequent user I want to be able to enjoy the online appointment services.
+  - As a frequent user I want to be able to give my opinions on services received in the clinic on this website and read other users ratings.
+- 
  ## Design
 
 ### Imagery
@@ -103,7 +121,9 @@ lato font is the main font used throughout the whole website. This font was impo
     Patients iterrested to have an idea of our patients satisfaction use mostly the social media site and read the comments.
     
 ![](assets/readme-docs/other-images/footer.png)
-   
+
+
+## User Stories and User Stories Testing"
 ## Testing
 
  
@@ -136,6 +156,14 @@ The accessibility score is 85% showing that pictures colors and fonts offers a g
 ### Device Testing
 
 - The responsiveness test was conducted on iphone 12, thinkpad, desktop samsung 8, ipad and the results are satisfying.
+
+## Friends and Family User Testing
+
+the site and documentation were reviewed by Friends and family members to point out any bugs and/or user experience issues.
+
+## Bugs
+
+During the programming, errors and bugs were dealt with as it progress. google chrome dev tool "inspect" was used. We are planning to design a serie of test for the website.  
 
 ## Teshnologies Used
 

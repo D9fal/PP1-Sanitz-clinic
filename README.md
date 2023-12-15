@@ -4,14 +4,14 @@
  Hausarztpraxis is a medical clinic to improve the health of the population they serve. Responding to people's expectations. Providing financial protection against the costs of ill-health.
  The website includes the healthcare services provided such as:
  
-- Emergency,services.
+- Emergency services.
 - Continuing Care. 
 - Mental Health and wellness.
 - Home Care.
 
-Through the website, the clinic allow patients to book their medical appointment online for non emergency cases. A section dedicated to appointments required some basic information and these informations are instanstly process by nurses at te clinic saving the patients and the doctor a lot on he consultation time.
+Through the website, the clinic allow patients to book their medical appointments online for non emergency cases. A section dedicated to appointments required some basic information and these informations are instanstly process by nurses at te clinic saving the patients and the doctor a lot on he consultation time.
 
-The address and contact information is also available. The live link can be found here - [hausarztpraxis](https://d9fal.github.io/PP1-Sanitz-clinic/)
+The address and contact information are also available. The live link can be found here - [hausarztpraxis](https://d9fal.github.io/PP1-Sanitz-clinic/)
 
   ## Site Owner Goals
   
@@ -68,7 +68,7 @@ lato font is the main font used throughout the whole website. This font was impo
 The accessibility score is 85% showing that pictures colors and fonts offers a good contrast. I think i can improve it by reducing the size of the pictures 
 ### Form Testing
 
-* The form has been tested and I would not be possible not submit without the required inputs fields (email) being filled in.
+* The form has been tested and it is not possible submit without the required inputs fields (email) being filled in.
 
 ### Links Testing
 -All the links on the webpage have been tested and work really good
@@ -117,7 +117,7 @@ The live link is [Hausarztpraxis](https://d9fal.github.io/PP1-Sanitz-clinic/)
 - [stack Overflow](https://stackoverflow.com/)
 - [geesforgeeks](https://www.geeksforgeeks.org/)
 - [W3Schools](https://www.w3schools.com/)
-- To strcture my readme.md, I used Mind Yoga by Ali Okeeffe readme file tempalte [readme.md](https://github.com/AliOKeeffe/mindyoga)
+- To structure my readme.md, I used Mind Yoga by Ali Okeeffe readme file template [readme.md](https://github.com/AliOKeeffe/mindyoga)
 
 ## Aknowledgments
 

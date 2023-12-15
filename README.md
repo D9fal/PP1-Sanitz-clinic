@@ -92,7 +92,7 @@ The accessibility score is 85% showing that pictures colors and fonts offers a g
 
 ## Deployment
 
-This project was deployed usimg GitHub pages. The steps are as followed:
+This project was deployed using GitHub pages. The steps are as followed:
 
 * Click on "Settings" on the GitHub repository page.
 * Select "Pages" on the left menu bar.
@@ -103,7 +103,22 @@ This project was deployed usimg GitHub pages. The steps are as followed:
 The live link is [Hausarztpraxis](https://d9fal.github.io/PP1-Sanitz-clinic/)
 
 
-## Frameworks
-## Credits
+## Frameworks - Librairies - Programs Used
+
+- [Codeanywhere](https://codeanywhere.com/) - used as IDE to write, edit and compile the code.
+- [W3C](https://validator.w3.org/) - To validate HTML & CSS.
+- [Chrome Dev Tools](https://developer.chrome.com/docs/devtools) - Used to test, verify, modify thewebsite while writting the program in codeanywhere   and tweaking, including testing responsiveness and performance.
+- [GitHub](https://github.com/) - Used for version control and hosting.
+- [Am I Responsive](https://amiresponsive.co.uk/) - Used to verify responsiveness of website on different devices.
+- [Google Fonts](https://fonts.google.com/) - Used to import and alter fonts on the page.
+- [Font Awesome] - Used for icons in footer.
+- [Balsamiq] - Used to generate Wireframe images.
+- [Am I Responsive] - Used to verify responsiveness of website on different devices.
+
+## Ressources Used
+
+- [stack Overflow](https://stackoverflow.com/)
+- [geesforgeeks](https://www.geeksforgeeks.org/)
+- [W3Schools](https://www.w3schools.com/)
 
 

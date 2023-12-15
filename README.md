@@ -56,6 +56,29 @@ lato font is the main font used throughout the whole website. This font was impo
  ![Desktop Wireframe](assets/readme-docs/wireframe/Mobilewireframe.png)
 
 </details>
+
+## Features
+
+- Navigation
+
+  - The navigation bar includes links to Logo (position: right), Home, Services, Appointments, Contact-Us.
+  - The bar has a fixed position, a shadow box and a higher z indice, allowing the bar to stay visible while the user navigates through the sections.
+  - With the bar always visible, the user can jump from one section to another without having to scroll up. 
+  
+  ![](assets/readme-docs/other-images/nav-bar.png)
+  
+- The landing Page 
+
+  - The landing page is artistically designed to first gain the patient confidence and allow the clinic to share a quick description of its ojectives.
+
+    ![](assets/readme-docs/other-images/landing-page.png)
+    
+- Services section
+
+    The Services section gives itemised details of services provided in the clinic.
+    
+    ![](assets/readme-docs/other-images/services-section.png)
+
  
 ## Testing
 

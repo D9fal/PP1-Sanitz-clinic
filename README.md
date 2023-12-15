@@ -73,6 +73,10 @@ lato font is the main font used throughout the whole website. This font was impo
 
     ![](assets/readme-docs/other-images/landing-page.png)
     
+    ![](assets/readme-docs/other-images/landing-page_1.png)
+
+    ![](assets/readme-docs/other-images/landing-page_2.png)
+    
 - Services section
 
     The Services section gives itemised details of services provided in the clinic.

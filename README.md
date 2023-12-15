@@ -117,8 +117,8 @@ The live link is [Hausarztpraxis](https://d9fal.github.io/PP1-Sanitz-clinic/)
 - [stack Overflow](https://stackoverflow.com/)
 - [geesforgeeks](https://www.geeksforgeeks.org/)
 - [W3Schools](https://www.w3schools.com/)
+- To strcture my readme.md, I used Mind Yoga by Ali Okeeffe readme file tempalte [readme.md](https://github.com/AliOKeeffe/mindyoga)
 
 ## Aknowledgments
-
 
 My Mentor Antonio for the 3 productive sessions we had. 
